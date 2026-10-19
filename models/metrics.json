@@ -1,0 +1,18 @@
+{
+  "framework": "TensorFlow/Keras",
+  "model": "MobileNetV3Small",
+  "selected_stage": "fine_tuned",
+  "num_classes": 38,
+  "train_images": 38013,
+  "validation_images": 8146,
+  "test_images": 8146,
+  "test_accuracy": 0.9734839184876013,
+  "test_macro_f1": 0.9667736803826741,
+  "single_image_latency_ms": 149.99758620000043,
+  "latency_device": "GPU",
+  "image_size": 224,
+  "batch_size": 32,
+  "seed": 42,
+  "tensorflow_version": "2.20.0",
+  "note": "PlantVillage is relatively controlled; these results do not guarantee field performance."
+}
