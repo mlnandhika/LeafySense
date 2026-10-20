@@ -1,4 +1,4 @@
-# 🌿 LeafySense
+# LeafySense
 
 Aplikasi web untuk mengklasifikasikan penyakit daun tanaman dari sebuah foto. Pengguna mengunggah gambar daun atau memotretnya lewat kamera, lalu aplikasi menampilkan tiga prediksi teratas beserta penjelasan singkat dan saran penanganan umum.
 
